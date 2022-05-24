@@ -11,5 +11,9 @@ npm install
 cd frontend
 npm install
 ```
+### Run Server
+`
+npm run server
+`
 ## Demo
 https://goalsetrmoonis.herokuapp.com/
